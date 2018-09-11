@@ -1,7 +1,26 @@
 Evan Brook
+<<<<<<< HEAD
+Fysics
+Junior
+=======
 Physics
 Junior
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Newton was a pretty cool guy
+=======
 i mess w/ ur commit
+>>>>>>> c8164e6ac9d28ce7a26d44ac4670568c06541658
+=======
+i mess w/ ur commit
+<<<<<<< HEAD
+>>>>>>> b2c96022772fc120e6a1dea90bff61622a4df6f0
+=======
 
 As do I #hacked
+<<<<<<< HEAD
+>>>>>>> ea6a5fa515702865e89a8231566904aa6aa467d0
+=======
+>>>>>>> e5801d96982bed1e168d7b5db467c057cb8418e8
+>>>>>>> b8e9c4c526f9ccb428e7448b76c4e4a44e2aa8f5
