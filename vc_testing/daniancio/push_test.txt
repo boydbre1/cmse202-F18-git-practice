@@ -1,6 +1,11 @@
 Dan Iancio
 Senior
 Finance
+<<<<<<< HEAD
+DOGS yo	
+=======
+SO KIND
 
 
 Hi Dan, nice to meet you!
+>>>>>>> d4627e08c9734b61ce6bdbfb8a621cf64036a1c1
