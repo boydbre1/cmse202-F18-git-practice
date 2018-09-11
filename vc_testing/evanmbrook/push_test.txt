@@ -7,4 +7,9 @@ Physics
 Junior
 
 i mess w/ ur commit
+<<<<<<< HEAD
 >>>>>>> b2c96022772fc120e6a1dea90bff61622a4df6f0
+=======
+
+As do I #hacked
+>>>>>>> e5801d96982bed1e168d7b5db467c057cb8418e8
