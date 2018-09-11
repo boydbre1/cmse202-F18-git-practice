@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 cool beans
 
 
 Matthew Ring
+=======
+MatthEWWWWWW Ring
+>>>>>>> 15e06cd59a0bc4e95ea60514101c8a8252a41ad3
 Junior (3rd Year)
-Physics Major
+Lower Tier Astrophysics major
