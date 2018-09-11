@@ -3,7 +3,13 @@ Physics
 Junior
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Newton was a pretty cool guy
 =======
 i mess w/ ur commit
 >>>>>>> c8164e6ac9d28ce7a26d44ac4670568c06541658
+=======
+i mess w/ ur commit
+
+As do I #hacked
+>>>>>>> ea6a5fa515702865e89a8231566904aa6aa467d0
