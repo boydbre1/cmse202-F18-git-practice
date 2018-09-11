@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 Matthew Ring
+Junior (9rd Year) (teaching is hard)
+Education Major
+
+
+updated by Colin
+=======
+cool beans
+Woah he has trouble with the snap...
+
+Matthew Ring
+>>>>>>> c03cbff5c781af35a7859d9ff42ac19f736030ee
+=======
+MatthEWWWWWW Ring
+>>>>>>> 15e06cd59a0bc4e95ea60514101c8a8252a41ad3
 Junior (3rd Year)
-Physics Major
+Lower Tier Astrophysics major
+>>>>>>> 15e06cd59a0bc4e95ea60514101c8a8252a41ad3
