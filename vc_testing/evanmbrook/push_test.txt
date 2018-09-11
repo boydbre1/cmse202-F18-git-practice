@@ -1,3 +1,10 @@
 Evan Brook
+<<<<<<< HEAD
 Fysics
 Junior
+=======
+Physics
+Junior
+
+i mess w/ ur commit
+>>>>>>> b2c96022772fc120e6a1dea90bff61622a4df6f0
